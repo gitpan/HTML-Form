@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               HTML-Form
-version:            6.01
+version:            6.02
 abstract:           Class that represents an HTML form element
 author:
     - Gisle Aas <gisle@activestate.com>
@@ -14,7 +14,7 @@ requires:
     Encode:               2
     HTML::TokeParser:     0
     HTTP::Request:        6
-    HTTP::Request::Common:  6
+    HTTP::Request::Common:  6.03
     perl:                 5.008001
     URI:                  1.10
 resources:
