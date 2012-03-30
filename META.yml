@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               HTML-Form
-version:            6.02
+version:            6.03
 abstract:           Class that represents an HTML form element
 author:
     - Gisle Aas <gisle@activestate.com>
